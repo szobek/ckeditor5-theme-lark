@@ -9,7 +9,7 @@
 	--ck-color-grid-tile-size: 20px;
 }
 
-.ck.ck-color-grid {
+.ck.ck-color-grid__items {
 	grid-gap: calc( var(--ck-spacing-standard) / 2 );
 	padding: var(--ck-spacing-standard);
 }
